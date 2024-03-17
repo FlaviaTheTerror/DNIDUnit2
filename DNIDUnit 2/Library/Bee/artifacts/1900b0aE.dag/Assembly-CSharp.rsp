@@ -384,6 +384,12 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Enxemac/Stylized 2D Alpine Nature Pack/Scripts/CameraMove.cs"
+"Assets/Scripts/Camera Movement.cs"
+"Assets/Scripts/Game over.cs"
+"Assets/Scripts/Looping Background.cs"
+"Assets/Scripts/Obstacle.cs"
+"Assets/Scripts/Player.cs"
+"Assets/Scripts/Spawn Obstacles.cs"
 -langversion:9.0
 
 /deterministic
