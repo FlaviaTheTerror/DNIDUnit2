@@ -59,6 +59,7 @@
     <UnityVersion>2022.3.20f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="C:\Users\Lucy\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -66,11 +67,13 @@
     <Compile Include="Assets\Scripts\Obstacle.cs" />
     <Compile Include="Assets\Scripts\Main Menu.cs" />
     <Compile Include="Assets\Scripts\Game over.cs" />
+    <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Tutorial 2.cs" />
     <Compile Include="Assets\Scripts\Spawn Obstacles.cs" />
     <Compile Include="Assets\Scripts\Looping Background.cs" />
     <Compile Include="Assets\Enxemac\Stylized 2D Alpine Nature Pack\Scripts\CameraMove.cs" />
+    <Compile Include="Assets\Scripts\PointCollect.cs" />
     <Compile Include="Assets\Scripts\Tutorial 1.cs" />
     <Compile Include="Assets\Scripts\Camera Movement.cs" />
   </ItemGroup>

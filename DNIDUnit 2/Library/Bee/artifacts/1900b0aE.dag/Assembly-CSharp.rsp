@@ -390,6 +390,8 @@
 "Assets/Scripts/Main Menu.cs"
 "Assets/Scripts/Obstacle.cs"
 "Assets/Scripts/Player.cs"
+"Assets/Scripts/PointCollect.cs"
+"Assets/Scripts/ScoreManager.cs"
 "Assets/Scripts/Spawn Obstacles.cs"
 "Assets/Scripts/Tutorial 1.cs"
 "Assets/Scripts/Tutorial 2.cs"

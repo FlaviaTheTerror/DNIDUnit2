@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2545272376391684375}
   m_Layer: 0
   m_Name: Breadcrumb Sprite
-  m_TagString: Untagged
+  m_TagString: Point
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -94,9 +94,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6832387728039681326}
   - component: {fileID: 321892515087665745}
+  - component: {fileID: 923705767555551598}
   m_Layer: 0
   m_Name: Breadcrumb
-  m_TagString: Untagged
+  m_TagString: Point
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -146,7 +147,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.028380394, y: 0.028380394}
@@ -162,3 +163,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.9081802, y: 2.2487478}
   m_EdgeRadius: 0
+--- !u!114 &923705767555551598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5524418148228007746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306a1b427cd5aca4e9d5237316943645, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

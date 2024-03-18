@@ -24,4 +24,5 @@ public class Player : MonoBehaviour
     {
         rb.velocity = new Vector2(0, playerDirection.y * playerSpeed);
     }
+
 }
