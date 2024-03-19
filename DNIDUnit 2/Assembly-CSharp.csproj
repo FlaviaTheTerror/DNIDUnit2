@@ -66,7 +66,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Obstacle.cs" />
     <Compile Include="Assets\Scripts\Main Menu.cs" />
+    <Compile Include="Assets\Scripts\Win Condition.cs" />
     <Compile Include="Assets\Scripts\Game over.cs" />
+    <Compile Include="Assets\Scripts\Return to Title.cs" />
     <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Tutorial 2.cs" />

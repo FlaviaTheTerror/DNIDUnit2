@@ -391,10 +391,12 @@
 "Assets/Scripts/Obstacle.cs"
 "Assets/Scripts/Player.cs"
 "Assets/Scripts/PointCollect.cs"
+"Assets/Scripts/Return to Title.cs"
 "Assets/Scripts/ScoreManager.cs"
 "Assets/Scripts/Spawn Obstacles.cs"
 "Assets/Scripts/Tutorial 1.cs"
 "Assets/Scripts/Tutorial 2.cs"
+"Assets/Scripts/Win Condition.cs"
 -langversion:9.0
 
 /deterministic
