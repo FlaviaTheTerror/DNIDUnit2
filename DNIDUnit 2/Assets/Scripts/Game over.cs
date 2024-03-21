@@ -7,10 +7,9 @@ public class Gameover : MonoBehaviour
 {
     public GameObject gameOverPanel;
 
-    // Update is called once per frame
     void Update()
     {
-        if(GameObject.FindGameObjectWithTag("Player") == null)
+        if (GameObject.FindGameObjectWithTag("Player") == null)
         {
             gameOverPanel.SetActive(true);
         }
@@ -18,7 +17,10 @@ public class Gameover : MonoBehaviour
 
     public void Restart()
     {
+        // Reset static variables
+        ScoreManager.scoreCount = 0;
+
+        // Reload the current scene
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
-
 }
